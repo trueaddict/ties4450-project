@@ -4,6 +4,12 @@ Dataset: https://www.kaggle.com/datasets/gpreda/russian-invasion-of-ukraine
 
 Presis: https://jyu-my.sharepoint.com/:p:/g/personal/saniosru_jyu_fi/EUZhxjzAeJ9PlW7OQ3Qyoa8BtX2Q20jKeEbMyi7zQmIuUA?e=2jtbQC
 
+**Jotta voi ajaa projektia**
+
+- pip install -r requirements.txt
+- ipython
+- run notebook.ipynb
+
 **TODO:**
 
 - Datan klusterointia
@@ -15,6 +21,9 @@ Presis: https://jyu-my.sharepoint.com/:p:/g/personal/saniosru_jyu_fi/EUZhxjzAeJ9
     - Wordcloud - emojeille
 - Heat map - maiden nimien esiintymisestä datassa
 
+**Preprocessing**
+
+- Stemming --> sanat perusmuotoon
 
 **Mietintää:**
 
@@ -23,3 +32,4 @@ Presis: https://jyu-my.sharepoint.com/:p:/g/personal/saniosru_jyu_fi/EUZhxjzAeJ9
     liittyvät kommentit yhdeksi dokumentiksi
     - Luetaanko myös uutislinkkien sisältö dokumentiksi?
         - Miten saataisiin vaan uutisen sisältö eikä kaikkea sivulla olevaa tauhkaa
+- Latent semantic analysis
